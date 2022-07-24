@@ -13,6 +13,6 @@ The code is self-explanatory with comments to help the logical flow of the desig
 
 ## Results:
 
-We achieved a final score of 0.97, which is 2% better than the model described in the paper. We use the model from the paper as our base case, and added improvements mainly focusing on: 
-a) feature engineering
+We achieved a final score of 0.97, which is 2% better than the model described in the paper. We use the model from the paper as our base case, and added improvements mainly focusing on:  
+a) feature engineering. 
 b) using a special loss function which penalized predictions in the subspace of the Hilbert space which is complementary to the code space.
